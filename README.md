@@ -1,4 +1,4 @@
-###Lightweight X axis mod for the Voron 2.4
+# Lightweight X axis mod for the Voron 2.4
 
 CURRENTLY UNDER DEVELOPMENT
 
@@ -29,7 +29,7 @@ the rest is stock
 
 
 
-##Things to come
+## Things to come
 - MGN9 Support
 - Rework M5 Nut holder inside the tube
 - Tool to hold the M3 linear Rail nuts
