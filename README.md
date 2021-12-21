@@ -1,6 +1,6 @@
 # Lightweight X axis mod for the Voron 2.4
 
-CURRENTLY UNDER DEVELOPMENT
+**CURRENTLY UNDER DEVELOPMENT AND TESTING**
 
 This is meant to be as light and Strong as possible while not being too far from the stock machine.
 
