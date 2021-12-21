@@ -1,4 +1,4 @@
-# Lightweight X axis mod for the Voron 2.4
+# Lightweight X Axis Mod for the Voron 2.4
 
 **CURRENTLY UNDER DEVELOPMENT AND TESTING**
 
