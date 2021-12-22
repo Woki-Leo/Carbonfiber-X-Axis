@@ -31,6 +31,8 @@ Using Aluminium Hardware for M5 is recommended (whatch out for the right alloy a
 
 ## Things to come
 - MGN9 Support
+- 20x20 1,5mm wall Carbon tube support
+- Adjustability between XY joints and Carbon extrusion
 - Rework M5 Nut holder inside the tube
 - Tool to hold the M3 linear Rail nuts
 - Umbilical Holder for Clockwork and Galileo (Chain Delete)
