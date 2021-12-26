@@ -15,7 +15,7 @@ Required Hardware:
 20x20 1mm wall thickness carbon fiber tube
 
 - 4PCs 5x40mm Pin (Use Carbon fiber)
-- 4PCs M5x40 BHCS
+- 4PCs M5x40 SHCS
 - 12PCs M5 Nut
 - 4PCs M5x10 BHCS
 - 2PCs M5x16 BHCS (or 2PCS M5x10 more if not using drag chains)
