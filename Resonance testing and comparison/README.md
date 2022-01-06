@@ -38,6 +38,6 @@ As you can see the recommended acceleration increases quite remakably when only 
 (pls note that this is printed before the printer was well tuned and input shaper wasnt adjusted in between runs yet it is still clear that 1 screw is WAY worse than 2 or 3)
 
 BUT Print Quality decreases drastically.
-THis is because can shift around inside the XY joint.
+This is because the square tube can shift around inside the XY joint.
 
 if you're curious youll find x axis measurements [here](../Resources) but they are not remarkable.
