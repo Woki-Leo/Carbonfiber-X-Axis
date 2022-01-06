@@ -35,6 +35,6 @@ The main differences are measurable on the Y-axis
 As you can see the recommended acceleration increases quite remakably when only using only 1 screw.
 
 BUT Print Quality decreases drastically.
-THis is because can shift around inside the XY joint.
+This is because the square tube can shift around inside the XY joint.
 
 if you're curious youll find x axis measurements [here](../Resources) but they are not remarkable.
