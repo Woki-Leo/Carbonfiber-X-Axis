@@ -34,6 +34,9 @@ The main differences are measurable on the Y-axis
 
 As you can see the recommended acceleration increases quite remakably when only using only 1 screw.
 
+![grafik](../Resources/IMG_20220106_214321_edit_115421607247491.jpg)
+(pls note that this is printed before the printer was well tuned and input shaper wasnt adjusted in between runs yet it is still clear that 1 screw is WAY worse than 2 or 3)
+
 BUT Print Quality decreases drastically.
 THis is because can shift around inside the XY joint.
 
