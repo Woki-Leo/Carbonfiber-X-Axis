@@ -35,3 +35,4 @@ Using Aluminium Hardware for M5 is recommended (whatch out for the right alloy a
 - Rework M5 Nut holder inside the tube
 - Tool to hold the M3 linear Rail nuts
 - Umbilical Holder for Clockwork and Galileo (Chain Delete)
+- In Depth resonance testing and comparison of different Setups
