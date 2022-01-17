@@ -63,7 +63,7 @@ the rest is stock
 For now you will have to orient the parts yourself! 
 They are all printable without supports.
 Settings: 
-standard voron settings.
+Standard voron settings.
 or: drop perimeters and/or infill down to save weight 
 3 perimeters and 20% infill tested
 
@@ -71,7 +71,9 @@ or: drop perimeters and/or infill down to save weight
 
 ## How to install it:
 
-1. Cut the Carbon tube to your printers stock length (330mm for 250mm version for example)
+**Please be carefull with cf dust! Wear a respirator and safety glasses!**
+
+1. Cut the carbon tube to your printers stock length (330mm for 250mm version for example)
 2. (Drillpress recommended) Drill holes from the front through the tube centered using the rail as template. Use the choose the spacing to you liking. Center using the printed tool and measuring on either end. 3mm drill. Drill all the way through the tube. ![grafik](Resources/drill%20front.jpg)
 3. Remove rail. Flip over and Drill from the back. Drill size has to be bigger than you M3 socket (12.5mm in my case). Take is slow to keep the blockout in the tube down.![grafik](Resources/drill%20back.jpg)
 4. Drill holes for the M5 Screws with 5.5mm drill
@@ -82,7 +84,7 @@ or: drop perimeters and/or infill down to save weight
 
 ## Things to come
 
-- [x] MGN9 Support
+- [x] MGN9 support
 - [x] Adjustability between XY joints and carbon extrusion
 - [x] Rework M5 nut holder inside the tube
 - [ ] Umbilical holder for Clockwork and Galileo (Chain Delete)
