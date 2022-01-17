@@ -1,6 +1,6 @@
-# Lightweight X Axis Mod for the Voron 2.4
+# Lightweight X Axis Mod for the Voron 2.4 and Trident
 
-**CURRENTLY UNDER DEVELOPMENT AND TESTING**
+**ALMOST DONE WITH DEVELOPMENT AND TESTING!**
 
 ![grafik](Resources/Axis%20image.png)
 
@@ -12,6 +12,7 @@
     - 150g saved by using the carbon tube
     - the rest is saved through the pinmod and other improvements
 - Look good
+- be usable for both MGN9 and MGN12
 
 
 <br/>
@@ -22,6 +23,8 @@
   - derived from the [pinmod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_Pins_Mod)
   - room for MGN12 (heavily inspired by [arkeet](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/arkeet/mgn12))
   - adjustment slots for the tube
+  - removed unnecessary cutouts unter the y carriages (actually saves weight)
+    - cut the corners at 45° here as well. Removes material that does nothing. 
 - Chain delete --> umbilical receivers required
 
 <br/>
@@ -32,20 +35,21 @@
   - you can use the original Alu tube as well but it will be very heavy
 - 4PCs 5x40mm Pins (Use Carbon fiber rod)
 - 4PCs M5x40 SHCS
-- 12PCs M5 Nut
-- 6PCs M5x10 BHCS
+- 8PCs M5 Nut
+- 4PCs M5x10 BHCS
 - 2PCs M5x30 BHCS
 
-Using Aluminium Hardware for M5 is recommended. Watch out for the right alloy and heat treat! 7075 T6 is strongly recommended!
+Using aluminium hardware for M5 is recommended. Watch out for the right alloy and heat treat! 7075 T6 is strongly recommended!
 
-For Rail mounting:
+For rail mounting:
 M3x8 SHCS + Nuts for the amount of screws you want (4-8 Recommended)
 
 <br/>
 
 ## Required mods:
 
-- arkeet's [mgn12](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/arkeet/mgn12) carriage or  jlas1' mgn12 [klicky](https://github.com/jlas1/Klicky-Probe/tree/main/Usermods/bluedragonx) carriage 
+- MGN12: arkeet's [MGN12](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/arkeet/mgn12) carriage or  jlas1' mgn12 [klicky](https://github.com/jlas1/Klicky-Probe/tree/main/Usermods/bluedragonx) carriage 
+- MGN9: Ellis' [MGN9H](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Single_MGN9H_Carriage) mod
 - some sort of y endstop on the gantry (click [here](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Y_Endstop_Relocation) for hartk's AB endstop)
 - until a clockwork umbilical holder is available the [gallileo](https://github.com/JaredC01/Galileo) clockwork is also needed
 
@@ -56,23 +60,41 @@ the rest is stock
 
 ## Printing:
 
-for now you will have to orient the parts yourself! 
-they are all printable without supports.
+For now you will have to orient the parts yourself! 
+They are all printable without supports.
+Settings: 
+standard voron settings.
+or: drop perimeters and/or infill down to save weight 
+3 perimeters and 20% infill tested
 
 <br/>
 
 ## How to install it:
 
-Coming soon!
+1. Cut the Carbon tube to your printers stock length (330mm for 250mm version for example)
+2. (Drillpress recommended) Drill holes from the front through the tube centered using the rail as template. Use the choose the spacing to you liking. Center using the printed tool and measuring on either end. 3mm drill. Drill all the way through the tube. ![grafik](Resources/drill%20front.jpg)
+3. Remove rail. Flip over and Drill from the back. Drill size has to be bigger than you M3 socket (12.5mm in my case). Take is slow to keep the blockout in the tube down.![grafik](Resources/drill%20back.jpg)
+4. Drill holes for the M5 Screws with 5.5mm drill
+5. Debur (5.5 are important here!)
+6. Assemble!
 
 <br/>
 
 ## Things to come
 
-- [ ] MGN9 Support
-- [ ] 20x20 1,5mm wall Carbon tube support
-- [ ] Adjustability between XY joints and Carbon extrusion
-- [ ] Rework M5 Nut holder inside the tube
-- [ ] Tool to hold the M3 linear Rail nuts
-- [ ] Umbilical Holder for Clockwork and Galileo (Chain Delete)
+- [x] MGN9 Support
+- [x] Adjustability between XY joints and carbon extrusion
+- [x] Rework M5 nut holder inside the tube
+- [ ] Umbilical holder for Clockwork and Galileo (Chain Delete)
 - [ ] In Depth resonance testing and comparison of different Setups
+- [ ] Alignment tool for drilling 5.5mm holes
+- [ ] Drag chain mount on the carbon tube (for now you can glue it on)
+- [ ] ~~20x20 1,5mm wall Carbon tube support~~ no benefit
+- [ ] ~~Nut installing tool~~ not need since holes from the back make it so much simpler to install the M3 nuts for the rail
+
+<br/>
+
+##Contact
+
+Feel free to reach out with any questions/suggestions you have!
+Discord: Woki | Leo #8734
