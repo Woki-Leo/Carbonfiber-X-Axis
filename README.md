@@ -33,6 +33,7 @@
 
 - 20x20 1mm wall thickness carbon fiber tube 
   - you can use the original Alu tube as well but it will be very heavy
+  - [you can find a fabricated tube here](https://best.aliexpress.com/?af=331900_1&cv=3736280&cn=42r82xto687sff5cv0kjhsd822xblw4w&dp=v5_42r82xto687sff5cv0kjhsd822xblw4w&af=331900_1&cv=3736280&cn=42r82xto687sff5cv0kjhsd822xblw4w&dp=v5_42r82xto687sff5cv0kjhsd822xblw4w&utm_source=epn&utm_medium=cpa&utm_campaign=331900_1&utm_content=3736280&afref=&aff_fcid=e90aac462e574d67bec2ef015a40c010-1646160828967-06787-_9G57Xi&aff_fsk=_9G57Xi&aff_platform=portals-hotproduct&sk=_9G57Xi&aff_trace_key=e90aac462e574d67bec2ef015a40c010-1646160828967-06787-_9G57Xi&terminal_id=8a71687a79774545ad48b3553e1a9618&afSmartRedirect=y)
 - 4PCs 5x40mm Pins (Use Carbon fiber rod)
 - 4PCs M5x40 SHCS
 - 8PCs M5 Nut
