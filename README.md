@@ -6,6 +6,8 @@
 
 ## What the goal is:
 
+**Caution: the carbon tube will start soften at and above 60c chamber temperature!!**
+
 - Removing lots of unnecessary weight to make the Printer go faster with better Quality
   - for a V2.4 350mm it drops the gantry weight from ~1350g to ~950g
     - 70g saved by removing the x drag chain
