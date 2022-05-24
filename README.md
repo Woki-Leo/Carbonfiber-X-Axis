@@ -63,7 +63,8 @@ the rest is stock
 
 ## Printing:
 
-For now you will have to orient the parts yourself! 
+Please make sure you choose the right version for you printer!
+Normally you should need the R2 Version with a new build. 
 They are all printable without supports.
 Settings: 
 Standard voron settings.
