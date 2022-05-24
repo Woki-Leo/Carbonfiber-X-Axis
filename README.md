@@ -35,7 +35,7 @@
 
 - 20x20 1mm wall thickness carbon fiber tube 
   - you can use the original Alu tube as well but it will be very heavy
-  - [you can find a fabricated tube here](https://best.aliexpress.com/?af=331900_1&cv=3736280&cn=42r82xto687sff5cv0kjhsd822xblw4w&dp=v5_42r82xto687sff5cv0kjhsd822xblw4w&af=331900_1&cv=3736280&cn=42r82xto687sff5cv0kjhsd822xblw4w&dp=v5_42r82xto687sff5cv0kjhsd822xblw4w&utm_source=epn&utm_medium=cpa&utm_campaign=331900_1&utm_content=3736280&afref=&aff_fcid=e90aac462e574d67bec2ef015a40c010-1646160828967-06787-_9G57Xi&aff_fsk=_9G57Xi&aff_platform=portals-hotproduct&sk=_9G57Xi&aff_trace_key=e90aac462e574d67bec2ef015a40c010-1646160828967-06787-_9G57Xi&terminal_id=8a71687a79774545ad48b3553e1a9618&afSmartRedirect=y)
+  - [you can find a fabricated tube here](https://www.aliexpress.com/item/1005004037790448.html?spm=a2g0o.productlist.0.0.4fa74aefiTnfIH&algo_pvid=06e6d075-0f3a-4506-aa12-01960cc75d43&algo_exp_id=06e6d075-0f3a-4506-aa12-01960cc75d43-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000027826580135%22%7D&pdp_npi=2%40dis%21EUR%21%2139.79%21%21%21%21%21%402100bdca16533793818795594efcb7%2112000027826580135%21sea)
 - 4PCs 5x40mm Pins (Use Carbon fiber rod)
 - 4PCs M5x40 SHCS
 - 8PCs M5 Nut
@@ -80,7 +80,7 @@ or: drop perimeters and/or infill down to save weight
 2. (Drillpress recommended) Drill holes from the front through the tube centered using the rail as template. Use the choose the spacing to you liking. Center using the printed tool and measuring on either end. 3mm drill. Drill all the way through the tube. ![grafik](Resources/drill%20front.jpg)
 3. Remove rail. Flip over and Drill from the back. Drill size has to be bigger than you M3 socket (12.5mm in my case). Take is slow to keep the blockout in the tube down.![grafik](Resources/drill%20back.jpg)
 4. Drill holes for the M5 Screws with 5.5mm drill
-5. Debur (5.5 are important here!)
+5. Debur
 6. Assemble!
 
 <br/>
@@ -91,7 +91,6 @@ or: drop perimeters and/or infill down to save weight
 - [x] Adjustability between XY joints and carbon extrusion
 - [x] Rework M5 nut holder inside the tube
 - [ ] Umbilical holder for Clockwork and Galileo (Chain Delete)
-- [ ] In Depth resonance testing and comparison of different Setups
 - [ ] Alignment tool for drilling 5.5mm holes
 - [ ] Drag chain mount on the carbon tube (for now you can glue it on)
 - [ ] ~~20x20 1,5mm wall Carbon tube support~~ no benefit
