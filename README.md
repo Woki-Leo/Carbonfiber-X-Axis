@@ -39,7 +39,7 @@
 - 4PCs 5x40mm Pins (Use Carbon fiber rod)
 - 4PCs M5x40 SHCS
 - 8PCs M5 Nut
-- 4PCs M5x10 BHCS
+- 4PCs M5x12 BHCS
 - 2PCs M5x30 BHCS
 
 Using aluminium hardware for M5 is recommended. Watch out for the right alloy and heat treat! 7075 T6 is strongly recommended!
