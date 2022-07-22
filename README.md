@@ -38,7 +38,7 @@
   - [you can find a fabricated tube here](https://www.aliexpress.com/item/1005004037790448.html?spm=a2g0o.productlist.0.0.4fa74aefiTnfIH&algo_pvid=06e6d075-0f3a-4506-aa12-01960cc75d43&algo_exp_id=06e6d075-0f3a-4506-aa12-01960cc75d43-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000027826580135%22%7D&pdp_npi=2%40dis%21EUR%21%2139.79%21%21%21%21%21%402100bdca16533793818795594efcb7%2112000027826580135%21sea)
 - 4PCs 5x40mm Pins (Use Carbon fiber rod)
 - 4PCs M5x40 SHCS
-- 8PCs M5 Nut
+- 10PCs M5 Nut
 - 4PCs M5x12 BHCS
 - 2PCs M5x30 BHCS
 
