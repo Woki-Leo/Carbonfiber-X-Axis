@@ -1,7 +1,5 @@
 # Lightweight X Axis Mod for the Voron 2.4 and Trident
 
-**ALMOST DONE WITH DEVELOPMENT AND TESTING!**
-
 ![grafik](Resources/Axis%20image.png)
 
 ## What the goal is:
